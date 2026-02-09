@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Xunit;
-using GradebookApp;
-
+using GradebookApp; // Adjust this namespace to where your Gradebook class is
 
 namespace Gradebook.Tests
 {
