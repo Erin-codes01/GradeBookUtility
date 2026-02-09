@@ -54,7 +54,7 @@ namespace GradebookApp
         }
     }
 
-    // 👇 Replaces your old Gradebook class so it matches your tests
+    
     public class Gradebook
     {
         private readonly List<double> _grades = new();
